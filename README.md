@@ -7,11 +7,14 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 ## Project Steps
 1. Create a Resource Group
 
-   • Created a Resource Group named “honeypotlab” in Azure to organize lab resources.
+   • Created a Resource Group named “HoneyPot-Lab” in Azure to organize lab resources. 
    
-   • Selected region: East US
+   • Selected region: Central India
 
-   Scrrenshot: ![ResourceGroup]()
+   Scrrenshot: ![RG](Screenshots/RG_creation.png)
 
 
-Screenshot:
+2. Create Virtual Network
+
+    ![Vnet](Screenshots/Virtual_net_creation.png)
+    ![Vnet](Screenshots/Virtual_net_creation(2).png)
