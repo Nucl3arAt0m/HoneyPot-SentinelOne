@@ -29,6 +29,8 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    Create a new inbound rule that allows any traffic from any source to any destination
    
    ![NSG](Screenshots/NSG_inboundRule.png)
-   ![VM](Screenshots/VM_c.png)
+   ![NSG](Screenshots/NSG_inboundRule(1).png)
 
-6. 
+5. Next, Log into the vm via RDP and disable or turn off the windows firewall (start -> wf.msc -> properties -> all off)
+
+   ![VM](Screenshots/.png)
