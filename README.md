@@ -25,6 +25,10 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
     ![VM](Screenshots/VM_created.png)
 
 4. Edit the Network Security Group (NSG) for this VM so that its open to the public internet and is easily discovered by attackers
+   
    Create a new inbound rule that allows any traffic from any source to any destination
    
    ![NSG](Screenshots/NSG_inboundRule.png)
+   ![VM](Screenshots/VM_c.png)
+
+6. 
