@@ -21,4 +21,5 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 
 3. Next, create a virtual machine for attackers to attack
 
-    ![Vnet](Screenshots/)
+    ![VM](Screenshots/VM_creation.png)
+    ![VM](Screenshots/VM_created.png)
