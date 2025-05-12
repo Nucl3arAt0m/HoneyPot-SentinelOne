@@ -37,3 +37,7 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    
    Turn off Firewall state in all 3 profile tabs
    ![VM](Screenshots/VM_firewall_disable.png)
+
+   After disabling the firewall, check whether host machine can reach the vm on public internet by pinging it from the local machine, if we can then attackers also can as well.
+
+   
