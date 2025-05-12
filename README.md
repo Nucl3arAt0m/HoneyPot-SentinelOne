@@ -33,4 +33,4 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 
 5. Next, Log into the vm via RDP and disable or turn off the windows firewall (start -> wf.msc -> properties -> all off)
 
-   ![VM](Screenshots/.png)
+   ![VM](Screenshots/VM_Login.png)
