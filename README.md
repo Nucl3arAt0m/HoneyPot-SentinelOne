@@ -19,7 +19,12 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
     ![Vnet](Screenshots/Virtual_net_creation.png)
     ![Vnet](Screenshots/Virtual_net_creation(2).png)
 
-3. Next, create a virtual machine for attackers to attack
+3. Next, create the honeypot virtual machine to catch attackers
 
     ![VM](Screenshots/VM_creation.png)
     ![VM](Screenshots/VM_created.png)
+
+4. Edit the Network Security Group (NSG) for this VM so that its open to the public internet and is easily discovered by attackers
+   Create a new inbound rule that allows any traffic from any source to any destination
+   
+   ![NSG](Screenshots/NSG_inboundRule.png)
