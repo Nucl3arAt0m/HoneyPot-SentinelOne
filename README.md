@@ -52,3 +52,5 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 
 ### 8. Created data collection rule to forward logs into the workspace and then visualize them in the SIEM
 
+   ![Sentinel](Screenshots/Rule_creation.png)
+   ![Sentinel](Screenshots/Rule_creation(1).png)
