@@ -56,4 +56,5 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    
 ### After crating the rule, we can use KQL to query logs from the virtual machine in the Log Analytics workspace,  
    
-   ![Sentinel](Screenshots/Rule_creation.png)
+   ![Sentinel](Screenshots/Logs.png)
+   ![Sentinel](Screenshots/attack_logs.png)
