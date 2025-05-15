@@ -59,4 +59,7 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    ![Sentinel](Screenshots/Logs.png)
    ![Sentinel](Screenshots/attack_logs.png)
 
-   ### Here, I queried for failed logon attempts in the last 30 minutes. this likely is a brute force attempt.
+### Here, I queried for failed logon attempts in the last 30 minutes. this likely is a brute force attempt.
+
+### 
+   
