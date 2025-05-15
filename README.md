@@ -50,8 +50,10 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 
    ![Sentinel](Screenshots/Micro_Senti_VMconn.png)
 
-### 8. Created data collection rule to forward logs into the workspace and then visualize them in the SIEM
+### 8. Created data collection rule to forward logs into the workspace and visualize them in the SIEM
 
    ![Sentinel](Screenshots/Rule_creation.png)
-
    
+### After crating the rule, we can use KQL to query logs from the virtual machine in the Log Analytics workspace,  
+   
+   ![Sentinel](Screenshots/Rule_creation.png)
