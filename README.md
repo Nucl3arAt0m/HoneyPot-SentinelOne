@@ -46,5 +46,9 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    ![LAW](Screenshots/LogAnalytics.png)
    ![Sentinel](Screenshots/Micro_Senti.png)
 
+### Next, I connected the Log Analytics Workspace and the Sentinel to the Virtual Machine.
+
+   ![Sentinel](Screenshots/Micro_Senti_VMconn.png)
+
 
 
