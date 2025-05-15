@@ -39,6 +39,12 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
    Turn off Firewall state in all 3 profile tabs
    ![VM](Screenshots/VM_firewall_disable.png)
 
- ### After disabling the firewall, check whether host machine can reach the vm on public internet by pinging it from the local machine, if we can then attackers also can as well.
+### After disabling the firewall, check whether host machine can reach the vm on public internet by pinging it from the local machine, if we can then attackers also can as well.
 
-   
+### 7. Create Log Analytics Workspace where windows event logs will be ingested and then link the workspace to Microsoft Sentinel
+
+   ![LAW](Screenshots/LogAnalytics.png)
+   ![Sentinel](Screenshots/Micro_Senti.png)
+
+
+
