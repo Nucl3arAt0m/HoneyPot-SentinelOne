@@ -12,7 +12,7 @@ This lab provides me hands-on experience with cloud security, SIEM tools, PowerS
 
    Selected region : East Asia
 
-   ![R](Screenshots/RG_creation.png)
+   ![RG](Screenshots/RG_creation.png)
 
 
 ### 2. Create Virtual Network
